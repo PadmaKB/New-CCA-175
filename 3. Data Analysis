@@ -1,0 +1,9 @@
+Data Analysis: Use Spark SQL to interact with the metastore programmatically in your applications. Generate reports by using queries against loaded data.
+********************************************************************************************************************************************************** 
+1. Use metastore tables as an input source or an output sink for Spark applications
+2. Understand the fundamentals of querying datasets in Spark
+3. Filter data using Spark
+4. Write queries that calculate aggregate statistics
+5. Join disparate datasets using Spark
+6. Produce ranked or sorted data
+

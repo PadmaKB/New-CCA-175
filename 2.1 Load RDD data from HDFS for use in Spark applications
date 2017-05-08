@@ -1,10 +1,10 @@
 Video 002 - Basics of Scala Pogramming
 
-// val & var
+val & var
 --------------------
 -> if delcared as var cannot the variable cannot be reassigned.
 
-// if-else-if-else
+if-else-if-else
 ----------------
 if(i>j) {
      print(i)
@@ -14,5 +14,29 @@ if(i>j) {
   print(j)
 }
 
+ternary operator
+---------------- 
+if (i>j): print(i) else print(j)
 
+while loop
+---------------- 
+while(ctr<=i) {
+ println(ctr)
+ ctr + =1
+}
+
+for loop
+---------------
+for (i <- ctr to j) {
+    println(a)
+ }
+ 
+functions
+-----------
+def addIntegers(i: Int , j: Int): Int={
+val total = i+j
+total
+}
+// Ending line with semicolon is not mandatory
+//return statment is mandatory so you can mention just total or return total in functions.
 

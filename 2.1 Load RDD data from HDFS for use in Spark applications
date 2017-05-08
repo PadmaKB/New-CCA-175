@@ -1,1 +1,18 @@
 Video 002 - Basics of Scala Pogramming
+
+// val & var
+--------------------
+-> if delcared as var cannot the variable cannot be reassigned.
+
+// if-else-if-else
+----------------
+if(i>j) {
+     print(i)
+} else if(i==j) {
+  print("Equal") 
+} else { 
+  print(j)
+}
+
+
+

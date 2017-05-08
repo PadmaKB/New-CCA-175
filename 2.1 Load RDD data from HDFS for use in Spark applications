@@ -1,4 +1,4 @@
-Video 002 - Basics of Scala Pogramming
+Video 002 -Big Data Workshop - 02 Scala - REPL, Programming basics and Object Oriented Concepts
 
 val & var
 --------------------
@@ -39,4 +39,12 @@ total
 }
 // Ending line with semicolon is not mandatory
 //return statment is mandatory so you can mention just total or return total in functions.
+
+Arrays
+-------------
+(2 to 10)
+//autofill
+(2 to 10).<tab>  //all the functions are displayed
+
+
 
